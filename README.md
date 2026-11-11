@@ -9,6 +9,7 @@ I bring an entrepreneurial perspective to software architecture: connecting the 
 
 ## Areas of focus
 
+- **Entrepreneurship:** Turning ideas into practical products and connecting technology with business needs.
 - **Artificial intelligence:** AI-powered software and intelligent workflows.
 - **Robotics & intelligent systems:** The intersection of software, automation, and the physical world.
 - **Enterprise software:** Clear architecture, maintainable systems, and practical business applications.
