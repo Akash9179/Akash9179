@@ -1,6 +1,7 @@
 # Akash Suryavanshi
 
-**Founder & Software Architect**
+**Tech Entrepreneur & AI Specialist**  
+Founder & Software Architect
 
 My focus is AI, robotics, intelligent systems, and enterprise software—connecting software architecture with practical applications.
 
